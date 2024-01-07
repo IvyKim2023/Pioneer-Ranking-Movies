@@ -1,4 +1,4 @@
-## Files Summary
+## File Summary 
 **makeUserMovieMatrix.ipynb:**
 Make the user-movie matrix from MovieLens data and save the file
 Filter for the genre filename
